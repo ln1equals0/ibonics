@@ -319,7 +319,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/team/44.jpg" class="img-responsive img-circle" alt="">
                         <h4>Yuliang Ma</h4>
                         <p class="text-muted">Lead Mechanical and Structure Engineering</p>
                         <ul class="list-inline social-buttons">
